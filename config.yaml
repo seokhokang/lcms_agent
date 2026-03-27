@@ -1,0 +1,15 @@
+# config.yaml
+
+base_llm:
+  model: google_genai:gemini-3-flash-preview
+  temperature: 0.1
+  top_p: 0.95
+  thinking_level: medium
+
+api_use:
+  elsevier_api: False
+  wiley_api: False
+  springernature_api: False
+
+misc:
+  save_dir: ./reports/

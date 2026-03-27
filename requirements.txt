@@ -1,0 +1,16 @@
+langchain
+langgraph
+python-dotenv
+pubchempy
+rdkit
+markdown
+gradio
+rapidfuzz
+pyyaml
+pymupdf-layout
+pymupdf4llm
+beautifulsoup4
+tavily-python
+elsapy
+wiley-tdm
+springernature-api-client
